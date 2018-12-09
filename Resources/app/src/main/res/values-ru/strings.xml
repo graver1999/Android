@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ресурсы</string>
+    <string name="hello_string">Привет мир!</string>
+    <string name="landscape">Вы в ландшафтном режиме</string>
+</resources>

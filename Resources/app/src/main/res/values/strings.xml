@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Resources</string>
+    <string name="hello_string">Hello World!</string>
+    <string name="landscape">You are in landscape mode</string>
+</resources>
