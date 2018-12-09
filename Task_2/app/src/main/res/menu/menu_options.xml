@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/view_selection"
+          android:title="Select view">
+        <menu>
+            <item android:id="@+id/editor" android:title="Editor with context menu" />
+            <item android:id="@+id/editor2" android:title="Editor with action bar" />
+        </menu>
+    </item>
+    <item android:id="@+id/close" android:title="Close app" />
+</menu>
